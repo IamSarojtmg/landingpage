@@ -88,8 +88,7 @@ button {
 /* player and formation */
 
 .container {
-    background-image: url(https://upload.wikimedia.org/wikipedia/commons/4/45/Football_field.svg);
-    background-size:cover ; 
+    background-color: rgb(11, 219, 11);
 /* display: flex; */
 /* flex-direction: column; */
 }
