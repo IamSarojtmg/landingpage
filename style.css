@@ -88,7 +88,7 @@ button {
 /* player and formation */
 
 .container {
-    background-color: rgb(11, 219, 11);
+    background-color:rgb(184, 176, 155);
 /* display: flex; */
 /* flex-direction: column; */
 }
@@ -123,7 +123,7 @@ padding-top: 50px;
 }
 
 .forward, .left, .center, .right, .leftb, .rightb{
-    border-radius: 50%;
+    border-radius: 10%;
 }
 
 
